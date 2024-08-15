@@ -1,0 +1,12 @@
+{
+    "name": "Satoru Gojo",
+    "symbol": "SG",
+    "description": "I am the strongest",
+    "image": "https://raw.githubusercontent.com/leandrogavidia/files/main/satoru-gojo.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Satoru Gojo token"
+      }
+    ]
+  }
